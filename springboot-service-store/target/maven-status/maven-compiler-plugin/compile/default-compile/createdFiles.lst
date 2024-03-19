@@ -1,0 +1,7 @@
+com\microservice\store\AppConfig.class
+com\microservice\store\services\StoreServiceRestImpl.class
+com\microservice\store\models\Store.class
+com\microservice\store\services\StoreService.class
+com\microservice\store\models\Celular.class
+com\microservice\store\controller\StoreController.class
+com\microservice\store\SpringbootServiceStoreApplication.class
