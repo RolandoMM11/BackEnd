@@ -1,13 +1,3 @@
-CREATE DATABASE celular
 
-USE celular;
+INSERT INTO celulares (name, marca, created_at) VALUES ('Samsung','S21',NOW())
 
-CREATE TABLE celulares(
-    name VARCHAR(50),
-    marca VARCHAR(50),
-    created_at DATETIME DEFAULT GETDATE(),
-);
-
-
-
-INSERT INTO celulares (name, marca) VALUES ('Samsung', 'S23');
